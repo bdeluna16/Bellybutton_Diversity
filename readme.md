@@ -7,3 +7,5 @@ She has collected data from numerous volunteers and needs a way to visualize tha
 Roza has tasked us with building an interactive dashboard that can show all of the data collected from each volunteer.
 
 Please see link below to dashboard.
+
+https://bdeluna16.github.io/Bellybutton_Diversity/
